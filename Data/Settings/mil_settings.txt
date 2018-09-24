@@ -1,0 +1,3 @@
+PLUGINS
+Virtual Controller Assistant:SQK1:EGQS:1
+Virtual Controller Assistant:SQK:1

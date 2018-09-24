@@ -1,0 +1,20 @@
+FP
+m_Visible:0
+m_X:1099
+m_Y:56
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:Seq:3:1:57:0:0:1::::0
+m_Column: :8:0:9:8:1:1::::6
+m_Column:RT:3:0:80:32:0:1::::6
+m_Column:Type:6:0:78:0:0:1::::7
+m_Column:R:2:1:63:7:0:1::::7
+m_Column:Sts:4:1:59:28:0:1::::6
+m_Column:S/Pad:10:1:19:29:0:1::::6
+m_Column:Err:5:1:18:31:0:1::::1
+m_Column:Dest:5:1:17:3:0:1::::7
+m_Column:Rwy:3:1:47:19:0:1::::7
+m_Column:SID:7:1:56:17:0:1::::7
+END

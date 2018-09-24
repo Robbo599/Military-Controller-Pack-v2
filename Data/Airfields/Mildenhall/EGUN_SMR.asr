@@ -1,0 +1,21 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:MilitaryV2\Data\Sector\MilSCT.sct
+SECTORTITLE:MilSCT.sct
+Regions:EGUN - Mildenhall:polygon
+Runways:EGUN Mildenhall 11-29:centerline
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Alternative
+WINDOWAREA:52.348780:0.445210:52.375962:0.529381

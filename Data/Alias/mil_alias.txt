@@ -1,0 +1,111 @@
+** GENERAL ****************************************
+
+.on Good Afternoon, $1 is online.
+.off5 $1 is closing in 5 mins.
+.off $1 is now closing.  Thanks for using Bristol.  Goodbye.
+.offuni $1 is now closing.  Please monitor UNICOM on 122.80.  Goodbye.
+.offother $1 is now closing.  Please contact $2 on $3.  Goodbye.
+.gate Please disconnect immediately, move to a gate/parking area and reconnect
+
+.prc Please see the VATSim Pilot Resource Centre for more information on the following link - http://www.vatsim.net/prc
+
+.infp Your flightplan is not valid. Please check $1
+.amm Suggested ammendment to your FP,can you accept:   
+.hangon Welcome to $1. Standbye for 3mins Ill call you back. 
+
+.typestand Can you confirm your aircraft type, and your stand number please
+.stand Can you confirm your stand number please
+.type Can you confirm your aircraft type please
+
+.charlie Squawk Mode Charlie
+
+** CONTACT ****************************************
+
+.gnd Contact $1 Ground on Frequency $2 with Information and Aircraft type.
+.twr Contact $1 Tower on Frequency $2, goodbye
+.app Contact $1 Radar on Frequency $2, goodbye
+.unicom Nothing further for you, monitor Unicom on 122.80. Have a good flight, goodbye
+.listen Maintain listen and watch
+.me Please contact me on $1
+
+
+** CLEARANCES *************************************
+
+.start Start, runway $deprwy in use, QFE$1, Orkney Regional $2.
+.taxiout Taxi to Holding Point $1 via $2, QFE$3, Information $atiscode
+.vfr Cleared to leave the MATZ to the $1, not above height 2000ft on QFE$2, squawk $squawk
+.vfr2 After departure, $1 turn heading $2, climb to height 2,000ft, squawk outbund and recovery $squawk.  Stud $3 once airborne
+.ifr cleared for the $sid departure, Squawk $squawk
+.ifrcas Cleared to join Controlled Airspace, on track $1 climbing FL$temp, squawk $squawk
+.qraclear After departure, vector $1 climb FL$2 and $3, set speed initially M.90, your mission - interrogate
+
+.lu Line up runway £deprwy
+
+** TOUCH AND GO ***********************************
+
+.tag Surface wind $wind($arr)
+.tagin $1 ahead, Surface wind $wind($arr)
+.tagfor Formation of $1 ahead, surface wind $wind($arr)
+.clrtag Cleared Touch and Go
+
+
+** RUN AND BREAK **********************************
+
+.rab Surface wind $wind($arr)
+.rabin $1 ahead, Surface wind $wind($arr)
+.rabfor Formation of $1 ahead, surface wind $wind($arr)
+
+
+** JOIN *******************************************
+
+.joinin Join, runway $arrrwy($arr), $2 hand, QFE $3, $4 in
+.joinclr Join, runway $arrrwy($arr), $2 hand, QFE $3, Circuit clear
+.joinoh Join overhead runway $arrrwy($arr), QFE $1, $2
+
+
+** TAKEOFF, LANDING *******************************
+
+.cont Continue approach, surface wind $wind($arr)
+.land Cleared to land
+.lit land in turn, $1 on
+.gear Check gear
+
+.pfljoin Join PFL runway $arrrwy($arr), QFE $2, $3, report high key with intentions
+.pflclr $1, surface wind $wind($arr)
+
+.to cleared for take off, surface wind $wind($dep)
+
+
+** OVERHEAD JOIN **********************************
+
+.tag Surface wind $wind($arr)
+.tagin $1 ahead, Surface wind $wind($arr)
+.tagfor Formation of $1 ahead, surface wind $wind($arr)
+.clrtag Cleared Touch and Go
+
+
+** APPROACH ***************************************
+
+.siapp $radioname, straight in approach approved, runway $arrrwy, QFE$1, $2 in.  Report long final with intentions
+
+
+** MATZ PENETRATION *******************************
+
+.mpen MATZ and ATZ penetration approved, cross MATZ at $1ft on $2 QFE$3
+
+
+** BRIZE NORTON SPECIFIC **************************
+
+.cecz Cleared to enter the Brize Norton Control Zone, not below altitude $1 on QNH $altim(EGVN)
+.rcs Radar Controlled Service
+
+.lzn Cleared to leave the Brize Norton Control Zone via the Burford VRP, not above altitude 1,300ft on QNH $altim(EGVN)
+.lzs Cleared to leave the Brize Norton Control Zone via the Faringdon VRP, not above altitude 1,300ft on QNH $altim(EGVN)
+
+.ezn Cleared to enter the Brize Norton Control Zone via the Burford VRP, not above altitude 1,300ft on QNH $altim(EGVN)
+.ezs Cleared to enter the Brize Norton Control Zone via the Faringdon VRP, not above altitude 1,300ft on QNH $altim(EGVN)
+
+
+** RADAR CORRIDORS ********************************
+
+.clrrc Cleared to transit the $1 Radar Corridor, FL$2

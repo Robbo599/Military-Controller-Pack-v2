@@ -1,0 +1,21 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:MilitaryV2\Data\Sector\MilSCT.sct
+SECTORTITLE:MilSCT.sct
+Regions:EGXW - Waddington:polygon
+Runways:EGXW Waddington 02-20:centerline
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Alternative
+WINDOWAREA:53.149475:-0.572208:53.183453:-0.466993
