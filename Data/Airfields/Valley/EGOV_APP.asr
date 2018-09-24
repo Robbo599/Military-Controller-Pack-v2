@@ -733,22 +733,6 @@ Free Text:EGSS Airspace Bases\1500':freetext
 Free Text:EGSS Airspace Bases\1500':freetext
 Free Text:EGSS Airspace Bases\2000':freetext
 Free Text:EGSS Airspace Bases\2500':freetext
-Free Text:EGVN Holding Points\A:freetext
-Free Text:EGVN Holding Points\B:freetext
-Free Text:EGVN Holding Points\B1:freetext
-Free Text:EGVN Holding Points\B2:freetext
-Free Text:EGVN Holding Points\C:freetext
-Free Text:EGVN Holding Points\C1:freetext
-Free Text:EGVN Holding Points\D:freetext
-Free Text:EGVN Holding Points\D1:freetext
-Free Text:EGVN Holding Points\E:freetext
-Free Text:EGVN Holding Points\E1:freetext
-Free Text:EGVN Holding Points\E2:freetext
-Free Text:EGVN Holding Points\E3:freetext
-Free Text:EGVN Holding Points\F:freetext
-Free Text:EGVN Holding Points\G:freetext
-Free Text:EGVN Holding Points\G1:freetext
-Free Text:EGVN Holding Points\G2:freetext
 Free Text:Radar Corr Lvl - Daventry N\<FL100>:freetext
 Free Text:Radar Corr Lvl - Dean Cross\<FL190>:freetext
 Free Text:Radar Corr Lvl - Gamston\<FL190>:freetext
@@ -792,19 +776,23 @@ Geo:GEO\Airspace Bases:freetext
 Regions:Daventry RC:polygon
 Regions:Dean Cross RC:polygon
 Regions:Gamston RC:polygon
-Regions:LCRA - Akrotiri:polygon
 Regions:Lichfield RC:polygon
 Regions:Lynas RC:polygon
 Regions:Swindon RC:polygon
 Regions:Tilni RC:polygon
 Regions:Uncontrolled airspace:polygon
-Regions:Warton:polygon
 Regions:Westcott RC:polygon
+Runways:EGOV Valley 14-32:centerline
+Runways:EGOV Valley 14-32:extended centerline 1
+Runways:EGOV Valley 14-32:extended centerline 1 left ticks
+Runways:EGOV Valley 14-32:extended centerline 2
+Runways:EGOV Valley 14-32:extended centerline 2 left ticks
+Runways:EGOV Valley 14-32:extended centerline 2 right ticks
 SHOWC:1
 SHOWSB:0
 BELOW:300
 ABOVE:0
-LEADER:-1
+LEADER:5
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -813,4 +801,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Alternative
-WINDOWAREA:52.311049:-4.013507:53.276757:-1.023130
+WINDOWAREA:52.425925:-6.627669:53.934841:-1.955215
