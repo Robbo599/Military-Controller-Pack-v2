@@ -16,7 +16,7 @@ Settings	SettingsfileCONFLICT	MilitaryV2\Data\Settings\CL.txt
 Settings	SettingsfileVCCS	MilitaryV2\Data\Settings\VCCS.txt
 LastSession	connecttype	0
 LastSession	facility	5
-LastSession	rating	3
+LastSession	rating	2
 LastSession	tovatsim	1
 LastSession	range	150
 LastSession	proxyserver	localhost
