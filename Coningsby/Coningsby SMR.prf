@@ -14,10 +14,4 @@ Settings	Settingsfile	MilitaryV2\Data\Settings\General.txt
 Settings	SettingsfileSCREEN	MilitaryV2\Data\Settings\Screen.txt
 Settings	SettingsfileCONFLICT	MilitaryV2\Data\Settings\CL.txt
 Settings	SettingsfileVCCS	MilitaryV2\Data\Settings\VCCS.txt
-LastSession	connecttype	0
-LastSession	facility	0
-LastSession	rating	0
-LastSession	tovatsim	1
-LastSession	range	100
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
+
