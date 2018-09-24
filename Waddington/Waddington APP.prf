@@ -14,11 +14,4 @@ Settings	Settingsfile	MilitaryV2\Data\Settings\General.txt
 Settings	SettingsfileSCREEN	MilitaryV2\Data\Settings\Screen.txt
 Settings	SettingsfileCONFLICT	MilitaryV2\Data\Settings\CL.txt
 Settings	SettingsfileVCCS	MilitaryV2\Data\Settings\VCCS.txt
-LastSession	connecttype	0
-LastSession	facility	5
-LastSession	rating	3
-LastSession	tovatsim	1
-LastSession	range	150
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
 RecentFiles	Recent2	MilitaryV2\Data\Airfields\Waddington\EGXW_SMR.asr
