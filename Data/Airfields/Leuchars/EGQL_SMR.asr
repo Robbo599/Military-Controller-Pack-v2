@@ -1,0 +1,19 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Military-Controller-Pack-v2\Data\Sector\MilSCT.sct
+SECTORTITLE:MilSCT.sct
+Regions:EGQL - Leuchars:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:1000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Alternative
+WINDOWAREA:56.361534:-2.896180:56.389066:-2.823445
