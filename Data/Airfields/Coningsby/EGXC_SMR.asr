@@ -3,7 +3,22 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:Military-Controller-Pack-v2\Data\Sector\MilSCT.sct
 SECTORTITLE:MilSCT.sct
+Free Text:EGXC Hold Points\A1:freetext
+Free Text:EGXC Hold Points\A2:freetext
+Free Text:EGXC Hold Points\A3:freetext
+Free Text:EGXC Hold Points\A4:freetext
+Free Text:EGXC Hold Points\B1:freetext
+Free Text:EGXC Hold Points\B2:freetext
+Free Text:EGXC Hold Points\C1:freetext
+Free Text:EGXC Hold Points\C2:freetext
+Free Text:EGXC Hold Points\D1:freetext
+Free Text:EGXC Hold Points\D2:freetext
+Free Text:EGXC Hold Points\D3:freetext
+Free Text:EGXC Hold Points\N1:freetext
+Free Text:EGXC Hold Points\S1:freetext
 Regions:EGXC - Coningsby:polygon
+Runways:EGXC Coningsby 07-25:centerline
+Runways:EGXC Coningsby 07-25:name
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -15,5 +30,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:53.078467:-0.202417:53.105999:-0.129685
+WINDOWAREA:53.080409:-0.196961:53.102434:-0.129773
